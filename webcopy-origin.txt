@@ -1,0 +1,756 @@
+Uri: https://cdn.converteai.net/4031ebbc-3c9a-44fb-957d-1327a6b37074/67226acb6efe76000b487bb5/main.m3u8
+File Name: C:\Downloaded Web Sites\dozeroaugc.com.br\4031ebbc-3c9a-44fb-957d-1327a6b37074\67226acb6efe76000b487bb5\main.m3u8
+Content Type: application/x-mpegurl
+
+Uri: https://cdn.converteai.net/4031ebbc-3c9a-44fb-957d-1327a6b37074/67229ee3317fe0000b645c49/main.m3u8
+File Name: C:\Downloaded Web Sites\dozeroaugc.com.br\4031ebbc-3c9a-44fb-957d-1327a6b37074\67229ee3317fe0000b645c49\main.m3u8
+Content Type: application/x-mpegurl
+
+Uri: https://cdn.converteai.net/4031ebbc-3c9a-44fb-957d-1327a6b37074/6722ba01ee8801000b91099b/main.m3u8
+File Name: C:\Downloaded Web Sites\dozeroaugc.com.br\4031ebbc-3c9a-44fb-957d-1327a6b37074\6722ba01ee8801000b91099b\main.m3u8
+Content Type: application/x-mpegurl
+
+Uri: https://cdn.converteai.net/4031ebbc-3c9a-44fb-957d-1327a6b37074/6722e92be7f098000b03c0c0/main.m3u8
+File Name: C:\Downloaded Web Sites\dozeroaugc.com.br\4031ebbc-3c9a-44fb-957d-1327a6b37074\6722e92be7f098000b03c0c0\main.m3u8
+Content Type: application/x-mpegurl
+
+Uri: https://cdn.converteai.net/4031ebbc-3c9a-44fb-957d-1327a6b37074/6722ea8a6efe76000b48d924/main.m3u8
+File Name: C:\Downloaded Web Sites\dozeroaugc.com.br\4031ebbc-3c9a-44fb-957d-1327a6b37074\6722ea8a6efe76000b48d924\main.m3u8
+Content Type: application/x-mpegurl
+
+Uri: https://dozeroaugc.com.br/
+File Name: C:\Downloaded Web Sites\dozeroaugc.com.br\index.htm
+Content Type: text/html
+
+Uri: https://dozeroaugc.com.br/comments/feed/
+File Name: C:\Downloaded Web Sites\dozeroaugc.com.br\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://dozeroaugc.com.br/feed/
+File Name: C:\Downloaded Web Sites\dozeroaugc.com.br\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://dozeroaugc.com.br/wp-content/plugins/elementor-pro/assets/css/frontend.min.css?ver=3.11.1
+File Name: C:\Downloaded Web Sites\dozeroaugc.com.br\wp-content\plugins\elementor-pro\assets\css\frontend.min.css
+Content Type: text/css
+
+Uri: https://dozeroaugc.com.br/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=3.11.1
+File Name: C:\Downloaded Web Sites\dozeroaugc.com.br\wp-content\plugins\elementor-pro\assets\js\frontend.min.js
+Content Type: application/x-javascript
+
+Uri: https://dozeroaugc.com.br/wp-content/plugins/elementor-pro/assets/js/preloaded-elements-handlers.min.js?ver=3.11.1
+File Name: C:\Downloaded Web Sites\dozeroaugc.com.br\wp-content\plugins\elementor-pro\assets\js\preloaded-elements-handlers.min.js
+Content Type: application/x-javascript
+
+Uri: https://dozeroaugc.com.br/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js?ver=3.11.1
+File Name: C:\Downloaded Web Sites\dozeroaugc.com.br\wp-content\plugins\elementor-pro\assets\js\webpack-pro.runtime.min.js
+Content Type: application/x-javascript
+
+Uri: https://dozeroaugc.com.br/wp-content/plugins/elementor-pro/assets/lib/sticky/jquery.sticky.min.js?ver=3.11.1
+File Name: C:\Downloaded Web Sites\dozeroaugc.com.br\wp-content\plugins\elementor-pro\assets\lib\sticky\jquery.sticky.min.js
+Content Type: application/x-javascript
+
+Uri: https://dozeroaugc.com.br/wp-content/plugins/elementor/assets/css/conditionals/e-swiper.min.css?ver=3.24.1
+File Name: C:\Downloaded Web Sites\dozeroaugc.com.br\wp-content\plugins\elementor\assets\css\conditionals\e-swiper.min.css
+Content Type: text/css
+
+Uri: https://dozeroaugc.com.br/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=3.24.1
+File Name: C:\Downloaded Web Sites\dozeroaugc.com.br\wp-content\plugins\elementor\assets\css\frontend.min.css
+Content Type: text/css
+
+Uri: https://dozeroaugc.com.br/wp-content/plugins/elementor/assets/css/widget-divider.min.css?ver=3.24.1
+File Name: C:\Downloaded Web Sites\dozeroaugc.com.br\wp-content\plugins\elementor\assets\css\widget-divider.min.css
+Content Type: text/css
+
+Uri: https://dozeroaugc.com.br/wp-content/plugins/elementor/assets/css/widget-heading.min.css?ver=3.24.1
+File Name: C:\Downloaded Web Sites\dozeroaugc.com.br\wp-content\plugins\elementor\assets\css\widget-heading.min.css
+Content Type: text/css
+
+Uri: https://dozeroaugc.com.br/wp-content/plugins/elementor/assets/css/widget-icon-list.min.css?ver=3.24.1
+File Name: C:\Downloaded Web Sites\dozeroaugc.com.br\wp-content\plugins\elementor\assets\css\widget-icon-list.min.css
+Content Type: text/css
+
+Uri: https://dozeroaugc.com.br/wp-content/plugins/elementor/assets/css/widget-image.min.css?ver=3.24.1
+File Name: C:\Downloaded Web Sites\dozeroaugc.com.br\wp-content\plugins\elementor\assets\css\widget-image.min.css
+Content Type: text/css
+
+Uri: https://dozeroaugc.com.br/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.24.1
+File Name: C:\Downloaded Web Sites\dozeroaugc.com.br\wp-content\plugins\elementor\assets\js\frontend-modules.min.js
+Content Type: application/x-javascript
+
+Uri: https://dozeroaugc.com.br/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.24.1
+File Name: C:\Downloaded Web Sites\dozeroaugc.com.br\wp-content\plugins\elementor\assets\js\frontend.min.js
+Content Type: application/x-javascript
+
+Uri: https://dozeroaugc.com.br/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.24.1
+File Name: C:\Downloaded Web Sites\dozeroaugc.com.br\wp-content\plugins\elementor\assets\js\webpack.runtime.min.js
+Content Type: application/x-javascript
+
+Uri: https://dozeroaugc.com.br/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.31.0
+File Name: C:\Downloaded Web Sites\dozeroaugc.com.br\wp-content\plugins\elementor\assets\lib\eicons\css\elementor-icons.min.css
+Content Type: text/css
+
+Uri: https://dozeroaugc.com.br/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot?5.31.0
+File Name: C:\Downloaded Web Sites\dozeroaugc.com.br\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://dozeroaugc.com.br/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.svg?5.31.0
+File Name: C:\Downloaded Web Sites\dozeroaugc.com.br\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.svg
+Content Type: image/svg+xml
+
+Uri: https://dozeroaugc.com.br/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.ttf?5.31.0
+File Name: C:\Downloaded Web Sites\dozeroaugc.com.br\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://dozeroaugc.com.br/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2?5.31.0
+File Name: C:\Downloaded Web Sites\dozeroaugc.com.br\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.woff2
+Content Type: font/woff2
+
+Uri: https://dozeroaugc.com.br/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff?5.31.0
+File Name: C:\Downloaded Web Sites\dozeroaugc.com.br\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.woff
+Content Type: application/font-woff
+
+Uri: https://dozeroaugc.com.br/wp-content/plugins/elementor/assets/lib/font-awesome/css/all.min.css?ver=6.0.8
+File Name: C:\Downloaded Web Sites\dozeroaugc.com.br\wp-content\plugins\elementor\assets\lib\font-awesome\css\all.min.css
+Content Type: text/css
+
+Uri: https://dozeroaugc.com.br/wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.min.css?ver=5.15.3
+File Name: C:\Downloaded Web Sites\dozeroaugc.com.br\wp-content\plugins\elementor\assets\lib\font-awesome\css\brands.min.css
+Content Type: text/css
+
+Uri: https://dozeroaugc.com.br/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.15.3
+File Name: C:\Downloaded Web Sites\dozeroaugc.com.br\wp-content\plugins\elementor\assets\lib\font-awesome\css\fontawesome.min.css
+Content Type: text/css
+
+Uri: https://dozeroaugc.com.br/wp-content/plugins/elementor/assets/lib/font-awesome/css/regular.min.css?ver=5.15.3
+File Name: C:\Downloaded Web Sites\dozeroaugc.com.br\wp-content\plugins\elementor\assets\lib\font-awesome\css\regular.min.css
+Content Type: text/css
+
+Uri: https://dozeroaugc.com.br/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css?ver=5.15.3
+File Name: C:\Downloaded Web Sites\dozeroaugc.com.br\wp-content\plugins\elementor\assets\lib\font-awesome\css\solid.min.css
+Content Type: text/css
+
+Uri: https://dozeroaugc.com.br/wp-content/plugins/elementor/assets/lib/font-awesome/css/v4-shims.min.css?ver=6.0.8
+File Name: C:\Downloaded Web Sites\dozeroaugc.com.br\wp-content\plugins\elementor\assets\lib\font-awesome\css\v4-shims.min.css
+Content Type: text/css
+
+Uri: https://dozeroaugc.com.br/wp-content/plugins/elementor/assets/lib/font-awesome/js/v4-shims.min.js?ver=6.0.8
+File Name: C:\Downloaded Web Sites\dozeroaugc.com.br\wp-content\plugins\elementor\assets\lib\font-awesome\js\v4-shims.min.js
+Content Type: application/x-javascript
+
+Uri: https://dozeroaugc.com.br/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.eot
+File Name: C:\Downloaded Web Sites\dozeroaugc.com.br\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://dozeroaugc.com.br/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.eot?
+File Name: C:\Downloaded Web Sites\dozeroaugc.com.br\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://dozeroaugc.com.br/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.svg
+File Name: C:\Downloaded Web Sites\dozeroaugc.com.br\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://dozeroaugc.com.br/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\dozeroaugc.com.br\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://dozeroaugc.com.br/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff
+File Name: C:\Downloaded Web Sites\dozeroaugc.com.br\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.woff
+Content Type: application/font-woff
+
+Uri: https://dozeroaugc.com.br/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\dozeroaugc.com.br\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://dozeroaugc.com.br/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.eot
+File Name: C:\Downloaded Web Sites\dozeroaugc.com.br\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://dozeroaugc.com.br/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.eot?
+File Name: C:\Downloaded Web Sites\dozeroaugc.com.br\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://dozeroaugc.com.br/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.svg
+File Name: C:\Downloaded Web Sites\dozeroaugc.com.br\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://dozeroaugc.com.br/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\dozeroaugc.com.br\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://dozeroaugc.com.br/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.woff
+File Name: C:\Downloaded Web Sites\dozeroaugc.com.br\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.woff
+Content Type: application/font-woff
+
+Uri: https://dozeroaugc.com.br/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\dozeroaugc.com.br\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://dozeroaugc.com.br/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.eot
+File Name: C:\Downloaded Web Sites\dozeroaugc.com.br\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://dozeroaugc.com.br/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.eot?
+File Name: C:\Downloaded Web Sites\dozeroaugc.com.br\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://dozeroaugc.com.br/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.svg
+File Name: C:\Downloaded Web Sites\dozeroaugc.com.br\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://dozeroaugc.com.br/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\dozeroaugc.com.br\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://dozeroaugc.com.br/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff
+File Name: C:\Downloaded Web Sites\dozeroaugc.com.br\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.woff
+Content Type: application/font-woff
+
+Uri: https://dozeroaugc.com.br/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\dozeroaugc.com.br\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://dozeroaugc.com.br/wp-content/plugins/elementor/assets/lib/swiper/v8/css/swiper.min.css?ver=8.4.5
+File Name: C:\Downloaded Web Sites\dozeroaugc.com.br\wp-content\plugins\elementor\assets\lib\swiper\v8\css\swiper.min.css
+Content Type: text/css
+
+Uri: https://dozeroaugc.com.br/wp-content/plugins/essential-addons-for-elementor-lite/assets/admin/images/templately/logo-icon.svg
+File Name: C:\Downloaded Web Sites\dozeroaugc.com.br\wp-content\plugins\essential-addons-for-elementor-lite\assets\admin\images\templately\logo-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://dozeroaugc.com.br/wp-content/plugins/essential-addons-for-elementor-lite/assets/front-end/css/view/general.min.css?ver=6.0.8
+File Name: C:\Downloaded Web Sites\dozeroaugc.com.br\wp-content\plugins\essential-addons-for-elementor-lite\assets\front-end\css\view\general.min.css
+Content Type: text/css
+
+Uri: https://dozeroaugc.com.br/wp-content/plugins/essential-addons-for-elementor-lite/assets/front-end/js/view/general.min.js?ver=6.0.8
+File Name: C:\Downloaded Web Sites\dozeroaugc.com.br\wp-content\plugins\essential-addons-for-elementor-lite\assets\front-end\js\view\general.min.js
+Content Type: application/x-javascript
+
+Uri: https://dozeroaugc.com.br/wp-content/plugins/mousewheel-smooth-scroll/js/SmoothScroll.min.js?ver=1.5.1
+File Name: C:\Downloaded Web Sites\dozeroaugc.com.br\wp-content\plugins\mousewheel-smooth-scroll\js\SmoothScroll.min.js
+Content Type: application/x-javascript
+
+Uri: https://dozeroaugc.com.br/wp-content/plugins/pixelyoursite/dist/scripts/jquery.bind-first-0.2.3.min.js?ver=6.6.2
+File Name: C:\Downloaded Web Sites\dozeroaugc.com.br\wp-content\plugins\pixelyoursite\dist\scripts\jquery.bind-first-0.2.3.min.js
+Content Type: application/x-javascript
+
+Uri: https://dozeroaugc.com.br/wp-content/plugins/pixelyoursite/dist/scripts/js.cookie-2.1.3.min.js?ver=2.1.3
+File Name: C:\Downloaded Web Sites\dozeroaugc.com.br\wp-content\plugins\pixelyoursite\dist\scripts\js.cookie-2.1.3.min.js
+Content Type: application/x-javascript
+
+Uri: https://dozeroaugc.com.br/wp-content/plugins/pixelyoursite/dist/scripts/public.js?ver=10.0.0
+File Name: C:\Downloaded Web Sites\dozeroaugc.com.br\wp-content\plugins\pixelyoursite\dist\scripts\public.js
+Content Type: application/x-javascript
+
+Uri: https://dozeroaugc.com.br/wp-content/themes/hello-elementor/assets/js/hello-frontend.min.js?ver=3.1.1
+File Name: C:\Downloaded Web Sites\dozeroaugc.com.br\wp-content\themes\hello-elementor\assets\js\hello-frontend.min.js
+Content Type: application/x-javascript
+
+Uri: https://dozeroaugc.com.br/wp-content/themes/hello-elementor/header-footer.min.css?ver=3.1.1
+File Name: C:\Downloaded Web Sites\dozeroaugc.com.br\wp-content\themes\hello-elementor\header-footer.min.css
+Content Type: text/css
+
+Uri: https://dozeroaugc.com.br/wp-content/themes/hello-elementor/style.min.css?ver=3.1.1
+File Name: C:\Downloaded Web Sites\dozeroaugc.com.br\wp-content\themes\hello-elementor\style.min.css
+Content Type: text/css
+
+Uri: https://dozeroaugc.com.br/wp-content/themes/hello-elementor/theme.min.css?ver=3.1.1
+File Name: C:\Downloaded Web Sites\dozeroaugc.com.br\wp-content\themes\hello-elementor\theme.min.css
+Content Type: text/css
+
+Uri: https://dozeroaugc.com.br/wp-content/uploads/2024/10/2-secao-mobile-copiar.webp
+File Name: C:\Downloaded Web Sites\dozeroaugc.com.br\wp-content\uploads\2024\10\2-secao-mobile-copiar.webp
+Content Type: image/webp
+
+Uri: https://dozeroaugc.com.br/wp-content/uploads/2024/10/429667041_18300785677158802_2430580756257090178_n-1306x1536.jpg
+File Name: C:\Downloaded Web Sites\dozeroaugc.com.br\wp-content\uploads\2024\10\429667041_18300785677158802_2430580756257090178_n-1306x1536.jpg
+Content Type: image/jpeg
+
+Uri: https://dozeroaugc.com.br/wp-content/uploads/2024/10/429667041_18300785677158802_2430580756257090178_n-255x300.jpg
+File Name: C:\Downloaded Web Sites\dozeroaugc.com.br\wp-content\uploads\2024\10\429667041_18300785677158802_2430580756257090178_n-255x300.jpg
+Content Type: image/jpeg
+
+Uri: https://dozeroaugc.com.br/wp-content/uploads/2024/10/429667041_18300785677158802_2430580756257090178_n-768x903.jpg
+File Name: C:\Downloaded Web Sites\dozeroaugc.com.br\wp-content\uploads\2024\10\429667041_18300785677158802_2430580756257090178_n-768x903.jpg
+Content Type: image/jpeg
+
+Uri: https://dozeroaugc.com.br/wp-content/uploads/2024/10/429667041_18300785677158802_2430580756257090178_n-870x1024.jpg
+File Name: C:\Downloaded Web Sites\dozeroaugc.com.br\wp-content\uploads\2024\10\429667041_18300785677158802_2430580756257090178_n-870x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://dozeroaugc.com.br/wp-content/uploads/2024/10/429667041_18300785677158802_2430580756257090178_n.jpg
+File Name: C:\Downloaded Web Sites\dozeroaugc.com.br\wp-content\uploads\2024\10\429667041_18300785677158802_2430580756257090178_n.jpg
+Content Type: image/jpeg
+
+Uri: https://dozeroaugc.com.br/wp-content/uploads/2024/10/436267150_18305087575158802_2925296732266184709_n-2-1229x1536.jpg
+File Name: C:\Downloaded Web Sites\dozeroaugc.com.br\wp-content\uploads\2024\10\436267150_18305087575158802_2925296732266184709_n-2-1229x1536.jpg
+Content Type: image/jpeg
+
+Uri: https://dozeroaugc.com.br/wp-content/uploads/2024/10/436267150_18305087575158802_2925296732266184709_n-2-240x300.jpg
+File Name: C:\Downloaded Web Sites\dozeroaugc.com.br\wp-content\uploads\2024\10\436267150_18305087575158802_2925296732266184709_n-2-240x300.jpg
+Content Type: image/jpeg
+
+Uri: https://dozeroaugc.com.br/wp-content/uploads/2024/10/436267150_18305087575158802_2925296732266184709_n-2-768x960.jpg
+File Name: C:\Downloaded Web Sites\dozeroaugc.com.br\wp-content\uploads\2024\10\436267150_18305087575158802_2925296732266184709_n-2-768x960.jpg
+Content Type: image/jpeg
+
+Uri: https://dozeroaugc.com.br/wp-content/uploads/2024/10/436267150_18305087575158802_2925296732266184709_n-2-819x1024.jpg
+File Name: C:\Downloaded Web Sites\dozeroaugc.com.br\wp-content\uploads\2024\10\436267150_18305087575158802_2925296732266184709_n-2-819x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://dozeroaugc.com.br/wp-content/uploads/2024/10/436267150_18305087575158802_2925296732266184709_n-2.jpg
+File Name: C:\Downloaded Web Sites\dozeroaugc.com.br\wp-content\uploads\2024\10\436267150_18305087575158802_2925296732266184709_n-2.jpg
+Content Type: image/jpeg
+
+Uri: https://dozeroaugc.com.br/wp-content/uploads/2024/10/6600a725b967491a9d25a70d_Bandeiras-selo.svg
+File Name: C:\Downloaded Web Sites\dozeroaugc.com.br\wp-content\uploads\2024\10\6600a725b967491a9d25a70d_Bandeiras-selo.svg
+Content Type: image/svg+xml
+
+Uri: https://dozeroaugc.com.br/wp-content/uploads/2024/10/Camada-1-copiar-150x150.webp
+File Name: C:\Downloaded Web Sites\dozeroaugc.com.br\wp-content\uploads\2024\10\Camada-1-copiar-150x150.webp
+Content Type: image/webp
+
+Uri: https://dozeroaugc.com.br/wp-content/uploads/2024/10/Camada-1-copiar-285x300.webp
+File Name: C:\Downloaded Web Sites\dozeroaugc.com.br\wp-content\uploads\2024\10\Camada-1-copiar-285x300.webp
+Content Type: image/webp
+
+Uri: https://dozeroaugc.com.br/wp-content/uploads/2024/10/Camada-1-copiar.webp
+File Name: C:\Downloaded Web Sites\dozeroaugc.com.br\wp-content\uploads\2024\10\Camada-1-copiar.webp
+Content Type: image/webp
+
+Uri: https://dozeroaugc.com.br/wp-content/uploads/2024/10/GreycliffCF-Bold.woff
+File Name: C:\Downloaded Web Sites\dozeroaugc.com.br\wp-content\uploads\2024\10\GreycliffCF-Bold.woff
+Content Type: application/font-woff
+
+Uri: https://dozeroaugc.com.br/wp-content/uploads/2024/10/GreycliffCF-DemiBold.woff
+File Name: C:\Downloaded Web Sites\dozeroaugc.com.br\wp-content\uploads\2024\10\GreycliffCF-DemiBold.woff
+Content Type: application/font-woff
+
+Uri: https://dozeroaugc.com.br/wp-content/uploads/2024/10/GreycliffCF-ExtraBold.woff
+File Name: C:\Downloaded Web Sites\dozeroaugc.com.br\wp-content\uploads\2024\10\GreycliffCF-ExtraBold.woff
+Content Type: application/font-woff
+
+Uri: https://dozeroaugc.com.br/wp-content/uploads/2024/10/GreycliffCF-ExtraLight.woff
+File Name: C:\Downloaded Web Sites\dozeroaugc.com.br\wp-content\uploads\2024\10\GreycliffCF-ExtraLight.woff
+Content Type: application/font-woff
+
+Uri: https://dozeroaugc.com.br/wp-content/uploads/2024/10/GreycliffCF-Heavy.woff
+File Name: C:\Downloaded Web Sites\dozeroaugc.com.br\wp-content\uploads\2024\10\GreycliffCF-Heavy.woff
+Content Type: application/font-woff
+
+Uri: https://dozeroaugc.com.br/wp-content/uploads/2024/10/GreycliffCF-Light.woff
+File Name: C:\Downloaded Web Sites\dozeroaugc.com.br\wp-content\uploads\2024\10\GreycliffCF-Light.woff
+Content Type: application/font-woff
+
+Uri: https://dozeroaugc.com.br/wp-content/uploads/2024/10/GreycliffCF-Medium.woff
+File Name: C:\Downloaded Web Sites\dozeroaugc.com.br\wp-content\uploads\2024\10\GreycliffCF-Medium.woff
+Content Type: application/font-woff
+
+Uri: https://dozeroaugc.com.br/wp-content/uploads/2024/10/GreycliffCF-Regular.woff
+File Name: C:\Downloaded Web Sites\dozeroaugc.com.br\wp-content\uploads\2024\10\GreycliffCF-Regular.woff
+Content Type: application/font-woff
+
+Uri: https://dozeroaugc.com.br/wp-content/uploads/2024/10/GreycliffCF-Thin.woff
+File Name: C:\Downloaded Web Sites\dozeroaugc.com.br\wp-content\uploads\2024\10\GreycliffCF-Thin.woff
+Content Type: application/font-woff
+
+Uri: https://dozeroaugc.com.br/wp-content/uploads/2024/10/head-copiar-2.webp
+File Name: C:\Downloaded Web Sites\dozeroaugc.com.br\wp-content\uploads\2024\10\head-copiar-2.webp
+Content Type: image/webp
+
+Uri: https://dozeroaugc.com.br/wp-content/uploads/2024/10/icon-285x300.webp
+File Name: C:\Downloaded Web Sites\dozeroaugc.com.br\wp-content\uploads\2024\10\icon-285x300.webp
+Content Type: image/webp
+
+Uri: https://dozeroaugc.com.br/wp-content/uploads/2024/10/icon.webp
+File Name: C:\Downloaded Web Sites\dozeroaugc.com.br\wp-content\uploads\2024\10\icon.webp
+Content Type: image/webp
+
+Uri: https://dozeroaugc.com.br/wp-content/uploads/2024/10/preco-copiar-300x84.webp
+File Name: C:\Downloaded Web Sites\dozeroaugc.com.br\wp-content\uploads\2024\10\preco-copiar-300x84.webp
+Content Type: image/webp
+
+Uri: https://dozeroaugc.com.br/wp-content/uploads/2024/10/preco-copiar.webp
+File Name: C:\Downloaded Web Sites\dozeroaugc.com.br\wp-content\uploads\2024\10\preco-copiar.webp
+Content Type: image/webp
+
+Uri: https://dozeroaugc.com.br/wp-content/uploads/2024/10/Slice-1.webp
+File Name: C:\Downloaded Web Sites\dozeroaugc.com.br\wp-content\uploads\2024\10\Slice-1.webp
+Content Type: image/webp
+
+Uri: https://dozeroaugc.com.br/wp-content/uploads/2024/10/Slice-5.webp
+File Name: C:\Downloaded Web Sites\dozeroaugc.com.br\wp-content\uploads\2024\10\Slice-5.webp
+Content Type: image/webp
+
+Uri: https://dozeroaugc.com.br/wp-content/uploads/2024/11/1-2-249x300.webp
+File Name: C:\Downloaded Web Sites\dozeroaugc.com.br\wp-content\uploads\2024\11\1-2-249x300.webp
+Content Type: image/webp
+
+Uri: https://dozeroaugc.com.br/wp-content/uploads/2024/11/1-2-768x924.webp
+File Name: C:\Downloaded Web Sites\dozeroaugc.com.br\wp-content\uploads\2024\11\1-2-768x924.webp
+Content Type: image/webp
+
+Uri: https://dozeroaugc.com.br/wp-content/uploads/2024/11/1-2-851x1024.webp
+File Name: C:\Downloaded Web Sites\dozeroaugc.com.br\wp-content\uploads\2024\11\1-2-851x1024.webp
+Content Type: image/webp
+
+Uri: https://dozeroaugc.com.br/wp-content/uploads/2024/11/1-2.webp
+File Name: C:\Downloaded Web Sites\dozeroaugc.com.br\wp-content\uploads\2024\11\1-2.webp
+Content Type: image/webp
+
+Uri: https://dozeroaugc.com.br/wp-content/uploads/2024/11/2-2-249x300.webp
+File Name: C:\Downloaded Web Sites\dozeroaugc.com.br\wp-content\uploads\2024\11\2-2-249x300.webp
+Content Type: image/webp
+
+Uri: https://dozeroaugc.com.br/wp-content/uploads/2024/11/2-2-768x924.webp
+File Name: C:\Downloaded Web Sites\dozeroaugc.com.br\wp-content\uploads\2024\11\2-2-768x924.webp
+Content Type: image/webp
+
+Uri: https://dozeroaugc.com.br/wp-content/uploads/2024/11/2-2-851x1024.webp
+File Name: C:\Downloaded Web Sites\dozeroaugc.com.br\wp-content\uploads\2024\11\2-2-851x1024.webp
+Content Type: image/webp
+
+Uri: https://dozeroaugc.com.br/wp-content/uploads/2024/11/2-2.webp
+File Name: C:\Downloaded Web Sites\dozeroaugc.com.br\wp-content\uploads\2024\11\2-2.webp
+Content Type: image/webp
+
+Uri: https://dozeroaugc.com.br/wp-content/uploads/2024/11/3-2-249x300.webp
+File Name: C:\Downloaded Web Sites\dozeroaugc.com.br\wp-content\uploads\2024\11\3-2-249x300.webp
+Content Type: image/webp
+
+Uri: https://dozeroaugc.com.br/wp-content/uploads/2024/11/3-2-768x924.webp
+File Name: C:\Downloaded Web Sites\dozeroaugc.com.br\wp-content\uploads\2024\11\3-2-768x924.webp
+Content Type: image/webp
+
+Uri: https://dozeroaugc.com.br/wp-content/uploads/2024/11/3-2-851x1024.webp
+File Name: C:\Downloaded Web Sites\dozeroaugc.com.br\wp-content\uploads\2024\11\3-2-851x1024.webp
+Content Type: image/webp
+
+Uri: https://dozeroaugc.com.br/wp-content/uploads/2024/11/3-2.webp
+File Name: C:\Downloaded Web Sites\dozeroaugc.com.br\wp-content\uploads\2024\11\3-2.webp
+Content Type: image/webp
+
+Uri: https://dozeroaugc.com.br/wp-content/uploads/2024/11/4-2-249x300.webp
+File Name: C:\Downloaded Web Sites\dozeroaugc.com.br\wp-content\uploads\2024\11\4-2-249x300.webp
+Content Type: image/webp
+
+Uri: https://dozeroaugc.com.br/wp-content/uploads/2024/11/4-2-768x924.webp
+File Name: C:\Downloaded Web Sites\dozeroaugc.com.br\wp-content\uploads\2024\11\4-2-768x924.webp
+Content Type: image/webp
+
+Uri: https://dozeroaugc.com.br/wp-content/uploads/2024/11/4-2-851x1024.webp
+File Name: C:\Downloaded Web Sites\dozeroaugc.com.br\wp-content\uploads\2024\11\4-2-851x1024.webp
+Content Type: image/webp
+
+Uri: https://dozeroaugc.com.br/wp-content/uploads/2024/11/4-2.webp
+File Name: C:\Downloaded Web Sites\dozeroaugc.com.br\wp-content\uploads\2024\11\4-2.webp
+Content Type: image/webp
+
+Uri: https://dozeroaugc.com.br/wp-content/uploads/2024/11/5-2-249x300.webp
+File Name: C:\Downloaded Web Sites\dozeroaugc.com.br\wp-content\uploads\2024\11\5-2-249x300.webp
+Content Type: image/webp
+
+Uri: https://dozeroaugc.com.br/wp-content/uploads/2024/11/5-2-768x924.webp
+File Name: C:\Downloaded Web Sites\dozeroaugc.com.br\wp-content\uploads\2024\11\5-2-768x924.webp
+Content Type: image/webp
+
+Uri: https://dozeroaugc.com.br/wp-content/uploads/2024/11/5-2-851x1024.webp
+File Name: C:\Downloaded Web Sites\dozeroaugc.com.br\wp-content\uploads\2024\11\5-2-851x1024.webp
+Content Type: image/webp
+
+Uri: https://dozeroaugc.com.br/wp-content/uploads/2024/11/5-2.webp
+File Name: C:\Downloaded Web Sites\dozeroaugc.com.br\wp-content\uploads\2024\11\5-2.webp
+Content Type: image/webp
+
+Uri: https://dozeroaugc.com.br/wp-content/uploads/2024/11/6-1-249x300.webp
+File Name: C:\Downloaded Web Sites\dozeroaugc.com.br\wp-content\uploads\2024\11\6-1-249x300.webp
+Content Type: image/webp
+
+Uri: https://dozeroaugc.com.br/wp-content/uploads/2024/11/6-1-768x924.webp
+File Name: C:\Downloaded Web Sites\dozeroaugc.com.br\wp-content\uploads\2024\11\6-1-768x924.webp
+Content Type: image/webp
+
+Uri: https://dozeroaugc.com.br/wp-content/uploads/2024/11/6-1-851x1024.webp
+File Name: C:\Downloaded Web Sites\dozeroaugc.com.br\wp-content\uploads\2024\11\6-1-851x1024.webp
+Content Type: image/webp
+
+Uri: https://dozeroaugc.com.br/wp-content/uploads/2024/11/6-1.webp
+File Name: C:\Downloaded Web Sites\dozeroaugc.com.br\wp-content\uploads\2024\11\6-1.webp
+Content Type: image/webp
+
+Uri: https://dozeroaugc.com.br/wp-content/uploads/elementor/css/global.css?ver=1730161217
+File Name: C:\Downloaded Web Sites\dozeroaugc.com.br\wp-content\uploads\elementor\css\global.css
+Content Type: text/css
+
+Uri: https://dozeroaugc.com.br/wp-content/uploads/elementor/css/post-15.css?ver=1730761678
+File Name: C:\Downloaded Web Sites\dozeroaugc.com.br\wp-content\uploads\elementor\css\post-15.css
+Content Type: text/css
+
+Uri: https://dozeroaugc.com.br/wp-content/uploads/elementor/css/post-7.css?ver=1730161216
+File Name: C:\Downloaded Web Sites\dozeroaugc.com.br\wp-content\uploads\elementor\css\post-7.css
+Content Type: text/css
+
+Uri: https://dozeroaugc.com.br/wp-content/uploads/essential-addons-elementor/eael-15.css?ver=1730761671
+File Name: C:\Downloaded Web Sites\dozeroaugc.com.br\wp-content\uploads\essential-addons-elementor\eael-15.css
+Content Type: text/css
+
+Uri: https://dozeroaugc.com.br/wp-content/uploads/essential-addons-elementor/eael-15.js?ver=1730761671
+File Name: C:\Downloaded Web Sites\dozeroaugc.com.br\wp-content\uploads\essential-addons-elementor\eael-15.js
+Content Type: application/x-javascript
+
+Uri: https://dozeroaugc.com.br/wp-content/uploads/wpmss/wpmss.min.js?ver=1730163295
+File Name: C:\Downloaded Web Sites\dozeroaugc.com.br\wp-content\uploads\wpmss\wpmss.min.js
+Content Type: application/x-javascript
+
+Uri: https://dozeroaugc.com.br/wp-content/uploads/wpmss/wpmssab.min.js?ver=1730163295
+File Name: C:\Downloaded Web Sites\dozeroaugc.com.br\wp-content\uploads\wpmss\wpmssab.min.js
+Content Type: application/x-javascript
+
+Uri: https://dozeroaugc.com.br/wp-includes/js/dist/hooks.min.js?ver=2810c76e705dd1a53b18
+File Name: C:\Downloaded Web Sites\dozeroaugc.com.br\wp-includes\js\dist\hooks.min.js
+Content Type: application/x-javascript
+
+Uri: https://dozeroaugc.com.br/wp-includes/js/dist/i18n.min.js?ver=5e580eb46a90c2b997e6
+File Name: C:\Downloaded Web Sites\dozeroaugc.com.br\wp-includes\js\dist\i18n.min.js
+Content Type: application/x-javascript
+
+Uri: https://dozeroaugc.com.br/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1
+File Name: C:\Downloaded Web Sites\dozeroaugc.com.br\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/x-javascript
+
+Uri: https://dozeroaugc.com.br/wp-includes/js/jquery/jquery.min.js?ver=3.7.1
+File Name: C:\Downloaded Web Sites\dozeroaugc.com.br\wp-includes\js\jquery\jquery.min.js
+Content Type: application/x-javascript
+
+Uri: https://dozeroaugc.com.br/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3
+File Name: C:\Downloaded Web Sites\dozeroaugc.com.br\wp-includes\js\jquery\ui\core.min.js
+Content Type: application/x-javascript
+
+Uri: https://dozeroaugc.com.br/wp-json/
+File Name: C:\Downloaded Web Sites\dozeroaugc.com.br\wp-json\index.htm
+Content Type: application/json
+
+Uri: https://dozeroaugc.com.br/wp-json/oembed/1.0/embed?url=https:%2F%2Fdozeroaugc.com.br%2F
+File Name: C:\Downloaded Web Sites\dozeroaugc.com.br\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: https://dozeroaugc.com.br/wp-json/oembed/1.0/embed?url=https:%2F%2Fdozeroaugc.com.br%2F&format=xml
+File Name: C:\Downloaded Web Sites\dozeroaugc.com.br\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: https://dozeroaugc.com.br/wp-json/wp/v2/pages/15
+File Name: C:\Downloaded Web Sites\dozeroaugc.com.br\wp-json\wp\v2\pages\15
+Content Type: application/json
+
+Uri: https://dozeroaugc.com.br/xmlrpc.php?rsd
+File Name: C:\Downloaded Web Sites\dozeroaugc.com.br\xmlrpc.php
+Content Type: text/xml
+
+Uri: https://fonts.googleapis.com/css?family=Inter:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Roboto:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Syne:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&display=swap&ver=6.6.2
+File Name: C:\Downloaded Web Sites\dozeroaugc.com.br\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/inter/v18/UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTc2dpRipWA.ttf
+File Name: C:\Downloaded Web Sites\dozeroaugc.com.br\s\inter\v18\UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTc2dpRipWA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v18/UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTc2dtRipWA.ttf
+File Name: C:\Downloaded Web Sites\dozeroaugc.com.br\s\inter\v18\UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTc2dtRipWA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v18/UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTc69tRipWA.ttf
+File Name: C:\Downloaded Web Sites\dozeroaugc.com.br\s\inter\v18\UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTc69tRipWA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v18/UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTcB9xRipWA.ttf
+File Name: C:\Downloaded Web Sites\dozeroaugc.com.br\s\inter\v18\UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTcB9xRipWA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v18/UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTccNxRipWA.ttf
+File Name: C:\Downloaded Web Sites\dozeroaugc.com.br\s\inter\v18\UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTccNxRipWA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v18/UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTch9tRipWA.ttf
+File Name: C:\Downloaded Web Sites\dozeroaugc.com.br\s\inter\v18\UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTch9tRipWA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v18/UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTcPtxRipWA.ttf
+File Name: C:\Downloaded Web Sites\dozeroaugc.com.br\s\inter\v18\UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTcPtxRipWA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v18/UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTcWdtRipWA.ttf
+File Name: C:\Downloaded Web Sites\dozeroaugc.com.br\s\inter\v18\UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTcWdtRipWA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v18/UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTcWdxRipWA.ttf
+File Name: C:\Downloaded Web Sites\dozeroaugc.com.br\s\inter\v18\UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTcWdxRipWA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v18/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuBWYAZ9hjQ.ttf
+File Name: C:\Downloaded Web Sites\dozeroaugc.com.br\s\inter\v18\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuBWYAZ9hjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v18/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuDyfAZ9hjQ.ttf
+File Name: C:\Downloaded Web Sites\dozeroaugc.com.br\s\inter\v18\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuDyfAZ9hjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v18/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuDyYAZ9hjQ.ttf
+File Name: C:\Downloaded Web Sites\dozeroaugc.com.br\s\inter\v18\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuDyYAZ9hjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v18/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuFuYAZ9hjQ.ttf
+File Name: C:\Downloaded Web Sites\dozeroaugc.com.br\s\inter\v18\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuFuYAZ9hjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v18/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuGKYAZ9hjQ.ttf
+File Name: C:\Downloaded Web Sites\dozeroaugc.com.br\s\inter\v18\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuGKYAZ9hjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v18/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuI6fAZ9hjQ.ttf
+File Name: C:\Downloaded Web Sites\dozeroaugc.com.br\s\inter\v18\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuI6fAZ9hjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v18/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyeAZ9hjQ.ttf
+File Name: C:\Downloaded Web Sites\dozeroaugc.com.br\s\inter\v18\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyeAZ9hjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v18/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyfAZ9hjQ.ttf
+File Name: C:\Downloaded Web Sites\dozeroaugc.com.br\s\inter\v18\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyfAZ9hjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v18/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuOKfAZ9hjQ.ttf
+File Name: C:\Downloaded Web Sites\dozeroaugc.com.br\s\inter\v18\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuOKfAZ9hjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOiCnqEu92Fr1Mu51QrEzAdKg.ttf
+File Name: C:\Downloaded Web Sites\dozeroaugc.com.br\s\roboto\v32\KFOiCnqEu92Fr1Mu51QrEzAdKg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOjCnqEu92Fr1Mu51S7ACc6CsE.ttf
+File Name: C:\Downloaded Web Sites\dozeroaugc.com.br\s\roboto\v32\KFOjCnqEu92Fr1Mu51S7ACc6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOjCnqEu92Fr1Mu51TjASc6CsE.ttf
+File Name: C:\Downloaded Web Sites\dozeroaugc.com.br\s\roboto\v32\KFOjCnqEu92Fr1Mu51TjASc6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOjCnqEu92Fr1Mu51TLBCc6CsE.ttf
+File Name: C:\Downloaded Web Sites\dozeroaugc.com.br\s\roboto\v32\KFOjCnqEu92Fr1Mu51TLBCc6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOjCnqEu92Fr1Mu51TzBic6CsE.ttf
+File Name: C:\Downloaded Web Sites\dozeroaugc.com.br\s\roboto\v32\KFOjCnqEu92Fr1Mu51TzBic6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOkCnqEu92Fr1MmgVxIIzc.ttf
+File Name: C:\Downloaded Web Sites\dozeroaugc.com.br\s\roboto\v32\KFOkCnqEu92Fr1MmgVxIIzc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOkCnqEu92Fr1Mu51xIIzc.ttf
+File Name: C:\Downloaded Web Sites\dozeroaugc.com.br\s\roboto\v32\KFOkCnqEu92Fr1Mu51xIIzc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOlCnqEu92Fr1MmEU9fBBc9.ttf
+File Name: C:\Downloaded Web Sites\dozeroaugc.com.br\s\roboto\v32\KFOlCnqEu92Fr1MmEU9fBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOlCnqEu92Fr1MmSU5fBBc9.ttf
+File Name: C:\Downloaded Web Sites\dozeroaugc.com.br\s\roboto\v32\KFOlCnqEu92Fr1MmSU5fBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+File Name: C:\Downloaded Web Sites\dozeroaugc.com.br\s\roboto\v32\KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOlCnqEu92Fr1MmYUtfBBc9.ttf
+File Name: C:\Downloaded Web Sites\dozeroaugc.com.br\s\roboto\v32\KFOlCnqEu92Fr1MmYUtfBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOmCnqEu92Fr1Mu4mxP.ttf
+File Name: C:\Downloaded Web Sites\dozeroaugc.com.br\s\roboto\v32\KFOmCnqEu92Fr1Mu4mxP.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/syne/v22/8vIS7w4qzmVxsWxjBZRjr0FKM_04uQ6jTYo.ttf
+File Name: C:\Downloaded Web Sites\dozeroaugc.com.br\s\syne\v22\8vIS7w4qzmVxsWxjBZRjr0FKM_04uQ6jTYo.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/syne/v22/8vIS7w4qzmVxsWxjBZRjr0FKM_0KuQ6jTYo.ttf
+File Name: C:\Downloaded Web Sites\dozeroaugc.com.br\s\syne\v22\8vIS7w4qzmVxsWxjBZRjr0FKM_0KuQ6jTYo.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/syne/v22/8vIS7w4qzmVxsWxjBZRjr0FKM_24vg6jTYo.ttf
+File Name: C:\Downloaded Web Sites\dozeroaugc.com.br\s\syne\v22\8vIS7w4qzmVxsWxjBZRjr0FKM_24vg6jTYo.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/syne/v22/8vIS7w4qzmVxsWxjBZRjr0FKM_3fvg6jTYo.ttf
+File Name: C:\Downloaded Web Sites\dozeroaugc.com.br\s\syne\v22\8vIS7w4qzmVxsWxjBZRjr0FKM_3fvg6jTYo.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/syne/v22/8vIS7w4qzmVxsWxjBZRjr0FKM_3mvg6jTYo.ttf
+File Name: C:\Downloaded Web Sites\dozeroaugc.com.br\s\syne\v22\8vIS7w4qzmVxsWxjBZRjr0FKM_3mvg6jTYo.ttf
+Content Type: font/ttf
+
+Uri: https://images.converteai.net/4031ebbc-3c9a-44fb-957d-1327a6b37074/players/67226ae16efe76000b487bf0/thumbnail.jpg
+File Name: C:\Downloaded Web Sites\dozeroaugc.com.br\4031ebbc-3c9a-44fb-957d-1327a6b37074\players\67226ae16efe76000b487bf0\thumbnail.jpg
+Content Type: image/jpeg
+
+Uri: https://images.converteai.net/4031ebbc-3c9a-44fb-957d-1327a6b37074/players/67229f003f473d000b0e32af/thumbnail.jpg
+File Name: C:\Downloaded Web Sites\dozeroaugc.com.br\4031ebbc-3c9a-44fb-957d-1327a6b37074\players\67229f003f473d000b0e32af\thumbnail.jpg
+Content Type: image/jpeg
+
+Uri: https://images.converteai.net/4031ebbc-3c9a-44fb-957d-1327a6b37074/players/6722ba11ee8801000b91099d/thumbnail.jpg
+File Name: C:\Downloaded Web Sites\dozeroaugc.com.br\4031ebbc-3c9a-44fb-957d-1327a6b37074\players\6722ba11ee8801000b91099d\thumbnail.jpg
+Content Type: image/jpeg
+
+Uri: https://images.converteai.net/4031ebbc-3c9a-44fb-957d-1327a6b37074/players/6722e933484cc9000ba601ff/thumbnail.jpg
+File Name: C:\Downloaded Web Sites\dozeroaugc.com.br\4031ebbc-3c9a-44fb-957d-1327a6b37074\players\6722e933484cc9000ba601ff\thumbnail.jpg
+Content Type: image/jpeg
+
+Uri: https://images.converteai.net/4031ebbc-3c9a-44fb-957d-1327a6b37074/players/6722ea9bee8801000b912454/thumbnail.jpg
+File Name: C:\Downloaded Web Sites\dozeroaugc.com.br\4031ebbc-3c9a-44fb-957d-1327a6b37074\players\6722ea9bee8801000b912454\thumbnail.jpg
+Content Type: image/jpeg
+
+Uri: https://mccdn.me/assets/js/widget.js
+File Name: C:\Downloaded Web Sites\dozeroaugc.com.br\assets\js\widget.js
+Content Type: application/javascript
+
+Uri: https://scripts.converteai.net/4031ebbc-3c9a-44fb-957d-1327a6b37074/players/67226ae16efe76000b487bf0/player.js
+File Name: C:\Downloaded Web Sites\dozeroaugc.com.br\4031ebbc-3c9a-44fb-957d-1327a6b37074\players\67226ae16efe76000b487bf0\player.js
+Content Type: text/javascript
+
+Uri: https://scripts.converteai.net/4031ebbc-3c9a-44fb-957d-1327a6b37074/players/67229f003f473d000b0e32af/player.js
+File Name: C:\Downloaded Web Sites\dozeroaugc.com.br\4031ebbc-3c9a-44fb-957d-1327a6b37074\players\67229f003f473d000b0e32af\player.js
+Content Type: text/javascript
+
+Uri: https://scripts.converteai.net/4031ebbc-3c9a-44fb-957d-1327a6b37074/players/6722ba11ee8801000b91099d/player.js
+File Name: C:\Downloaded Web Sites\dozeroaugc.com.br\4031ebbc-3c9a-44fb-957d-1327a6b37074\players\6722ba11ee8801000b91099d\player.js
+Content Type: text/javascript
+
+Uri: https://scripts.converteai.net/4031ebbc-3c9a-44fb-957d-1327a6b37074/players/6722e933484cc9000ba601ff/player.js
+File Name: C:\Downloaded Web Sites\dozeroaugc.com.br\4031ebbc-3c9a-44fb-957d-1327a6b37074\players\6722e933484cc9000ba601ff\player.js
+Content Type: text/javascript
+
+Uri: https://scripts.converteai.net/4031ebbc-3c9a-44fb-957d-1327a6b37074/players/6722ea9bee8801000b912454/player.js
+File Name: C:\Downloaded Web Sites\dozeroaugc.com.br\4031ebbc-3c9a-44fb-957d-1327a6b37074\players\6722ea9bee8801000b912454\player.js
+Content Type: text/javascript
+
+Uri: https://scripts.converteai.net/lib/js/smartplayer/v1/sdk.min.js
+File Name: C:\Downloaded Web Sites\dozeroaugc.com.br\lib\js\smartplayer\v1\sdk.min.js
+Content Type: text/javascript
+
+Uri: https://scripts.converteai.net/lib/js/smartplayer/v1/smartplayer.min.js
+File Name: C:\Downloaded Web Sites\dozeroaugc.com.br\lib\js\smartplayer\v1\smartplayer.min.js
+Content Type: text/javascript
+
+Uri: https://widget.manychat.com/1978941_9c932.js
+File Name: C:\Downloaded Web Sites\dozeroaugc.com.br\1978941_9c932.js
+Content Type: text/plain
+
+Uri: https://www.facebook.com/tr?id=537799372300638&ev=PageView&noscript=1
+File Name: C:\Downloaded Web Sites\dozeroaugc.com.br\tr
+Content Type: text/plain
+
+Uri: https://www.facebook.com/tr?id=537799372300638&ev=PageView&noscript=1&cd[page_title]=Zero+ao+UGC&cd[post_type]=page&cd[post_id]=15&cd[plugin]=PixelYourSite&cd[user_role]=guest&cd[event_url]=dozeroaugc.com.br%2F
+File Name: C:\Downloaded Web Sites\dozeroaugc.com.br\tr-1
+Content Type: text/plain
+
